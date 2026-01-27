@@ -1,4 +1,4 @@
-# Bank Operation Analysis - SQL & T-SQL Project
+# Bank Operations SQL and T-SQL Analysis
 ## Table of Content
 - [Overview](#overview)
 - [Business Integrity](#business-integrity)
